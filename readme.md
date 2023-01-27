@@ -13,7 +13,7 @@ Transform go values to pointers and pointers to values
 ```go
 package main
 
-import "https://github.com/cgardev/go-ptr/pkg/ptr"
+import "github.com/cgardev/go-ptr/pkg/ptr"
 
 func main() {
 	// Transform int32 to *int32
