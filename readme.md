@@ -3,7 +3,7 @@
 Transform go values to pointers and pointers to values
 
 ## Installation
-`go get -u https://github.com/cgardev/go-ptr`
+`go get -u github.com/cgardev/go-ptr`
 
 
 [doc-img]: https://pkg.go.dev/badge/github.com/cgardev/go-ptr
